@@ -57,14 +57,14 @@ Recommendation Engine: When a user selects a movie, the system returns the top 5
 ## 🧪 Example Output
 
 ```text
-Input: The Matrix (1999)
+Input: Head And Heart
 
 Top 5 Recommended Movies:
-1. The Matrix Reloaded
-2. The Matrix Revolutions
-3. Equilibrium
-4. Dark City
-5. Minority Report
+1. Anything
+2. Our Love
+3. Love Me
+4. Is It Love
+5. If You Love Me
 ```
 ## 🔧 Requirements
 
